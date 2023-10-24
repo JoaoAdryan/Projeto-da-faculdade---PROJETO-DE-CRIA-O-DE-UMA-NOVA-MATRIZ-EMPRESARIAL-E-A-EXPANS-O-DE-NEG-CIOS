@@ -1,2 +1,2 @@
-# avaliação a3
-avaliaçao da faculdade
+# Avaliação a3
+O projeto visa reformar a rede de uma filial e montar uma nova rede para nova empresa Matriz
